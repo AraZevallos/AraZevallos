@@ -14,7 +14,7 @@
                            coorganizer: "X ENEISOFT",
                            speaker: "Vocational Fair for Software Engineering"
                         },
-     challenge: "I'm learning more about web applications at the Platzi School of Web Development."
+     challenge: "I'm learning more about Figma."
     }
 ```
 
